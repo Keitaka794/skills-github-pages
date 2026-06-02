@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+GitHub Pages Practice: I Did A Thing!
 ---
